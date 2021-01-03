@@ -1,0 +1,5 @@
+.idea/
+venv/
+out/
+__pycache__/
+.dev/
