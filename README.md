@@ -4,7 +4,7 @@ using randomly allocated k-LSB (k Least Significant Bit) embedding with Fernet e
 
 ![Passes tests](https://github.com/espencly/Stegnant/workflows/Unit%20Tests/badge.svg?event=push)
 
-> **Early version**<br>Expect breaking changes and major rewrites.
+> **Early WIP version**<br>Expect breaking changes and major rewrites.
 
 ## Installation
 > **Note**<br>
