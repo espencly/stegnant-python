@@ -2,7 +2,7 @@
 Lightweight steganography library for Python 3
 using randomly allocated k-LSB (k Least Significant Bit) embedding with Fernet encryption (128 bit AES, 256 bit HMAC).
 
-![Passes tests](https://github.com/espencly/Stegnant/workflows/Unit%20Tests/badge.svg?event=push)
+![Passes tests](https://github.com/espencly/stegnant-python/workflows/Unit%20Tests/badge.svg?event=push)
 
 > **Early WIP version**<br>Expect breaking changes and major rewrites.
 
